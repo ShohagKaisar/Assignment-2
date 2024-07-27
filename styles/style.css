@@ -530,5 +530,16 @@ hr {
     align-items: start;
     margin-left: 30px;
   }
-
+  .footer-div p{
+    width: 145%;
+    line-height: 30px;
+  }
+  .footer-left {
+    width: 80%;
+    margin: 30px 0;
+  }
+  .right {
+    text-align: left;
+    margin-left: 30px;
+  }
 }
