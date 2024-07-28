@@ -245,66 +245,66 @@ header {
   font-weight: 400;
   margin: 12px 0;
 }
-.bmi-container{
+.bmi-container {
   width: 90%;
   display: flex;
   justify-content: space-between;
   gap: 100px;
   margin: 50px auto;
 }
-.bmi-div{
+.bmi-div {
   background: rgb(34, 34, 34);
   margin: 0 auto;
   padding: 1% 0;
 }
-.table-container h3{
+.table-container h3 {
   font-size: 1.75rem;
   font-weight: 900;
   line-height: 120%;
   margin-bottom: 20px;
 }
-td{
+td {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-collapse: collapse;
   padding: 15px 25px;
   color: rgba(255, 255, 255, 0.5);
 }
-.th{
+.th {
   color: white;
 }
-.form-container h3{
+.form-container h3 {
   font-size: 1.75rem;
   font-weight: 900;
   line-height: 120%;
 }
-.form-container p{
+.form-container p {
   color: rgba(255, 255, 255, 0.5);
   font-size: 0.9rem;
   font-weight: 400;
   margin: 12px 0;
   width: 90%;
 }
-.input-box{
+.input-box {
   /* width: 100%; */
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.2);
   padding: 12px 10px;
   margin: 10px 12px 10px 0;
   border: none;
-  font-size: .75rem;
+  font-size: 0.75rem;
   color: rgba(255, 255, 255, 0.2);
 }
-.input-box option{
+.input-box option {
   color: rgb(232, 12, 12);
 }
-form{
+form {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
-.full-width{
-  width: calc(200% - 12px)
+.full-width {
+  width: calc(200% - 12px);
 }
-.calc-btn{
+.calc-btn {
   padding: 10px 40px;
 }
 /* BMI Calculator End */
@@ -499,16 +499,16 @@ hr {
   /* Run Section End */
 
   .bmi-title {
-  margin: 40px auto;
-  width: 85%;
-}
-  .bmi-container{
-  width: 90%;
-  flex-direction: column;
-}
-.input-box{
-  padding: 7%;
-}
+    margin: 40px auto;
+    width: 85%;
+  }
+  .bmi-container {
+    width: 90%;
+    flex-direction: column;
+  }
+  .input-box {
+    padding: 7%;
+  }
   .team-title h3 {
     font-size: 1.5rem;
   }
@@ -530,7 +530,7 @@ hr {
     align-items: start;
     margin-left: 30px;
   }
-  .footer-div p{
+  .footer-div p {
     width: 145%;
     line-height: 30px;
   }
