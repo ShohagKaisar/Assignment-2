@@ -263,7 +263,7 @@ header {
   line-height: 120%;
   margin-bottom: 20px;
 }
-td {
+.table, td {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-collapse: collapse;
   padding: 15px 25px;
