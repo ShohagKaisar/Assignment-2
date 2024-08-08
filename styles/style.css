@@ -263,7 +263,8 @@ header {
   line-height: 120%;
   margin-bottom: 20px;
 }
-.table, td {
+.table,
+td {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-collapse: collapse;
   padding: 15px 25px;
@@ -358,23 +359,23 @@ form {
 }
 /* Team Section End */
 
-.activity-img{
+.activity-img {
   width: 300px;
   height: 200px;
   opacity: 0.7;
   /* border-radius: 5px 50px; */
   border-radius: 60%;
 }
-.activity-img:hover{
-  transition: .5s;
+.activity-img:hover {
+  transition: 0.5s;
   border-radius: 0;
   opacity: 1;
 }
-.activity-section{
+.activity-section {
   max-width: 85%;
   margin: 0 auto;
 }
-.activity-div{
+.activity-div {
   padding: 10px;
   display: flex;
   flex-wrap: wrap;
@@ -566,7 +567,7 @@ hr {
     text-align: left;
     margin-left: 30px;
   }
-  .activity-div{
+  .activity-div {
     flex-direction: column;
     align-items: center;
   }
