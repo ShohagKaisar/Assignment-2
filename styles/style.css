@@ -186,14 +186,14 @@ header {
 }
 .habit-card h3 {
   margin: 20px 0 8px 0;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   text-align: center;
 }
 .habit-card p {
   width: 95%;
   color: rgba(255, 255, 255, 0.5);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 400;
   margin: 0 auto;
 }
