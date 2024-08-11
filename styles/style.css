@@ -224,10 +224,11 @@ header {
   line-height: 24px;
 }
 .run-img {
-  width: 90%;
-  height: 100%;
+  width: 120%;
+  height: 120%;
   border-radius: 18px;
   margin: 20px;
+  margin-left: -75px;
 }
 /* Habit Section end */
 
@@ -358,7 +359,7 @@ form {
   color: rgba(255, 255, 255, 0.5);
 }
 /* Team Section End */
-
+/* Activity Section Start */
 .activity-img {
   width: 300px;
   height: 200px;
@@ -382,6 +383,7 @@ form {
   justify-content: space-evenly;
   gap: 10px;
 }
+/* activity Section End */
 .footer-container {
   background: rgb(34, 34, 34);
 }
