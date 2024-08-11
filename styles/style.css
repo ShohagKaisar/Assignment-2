@@ -217,6 +217,7 @@ header {
   font-weight: 800;
 }
 .run p {
+  max-width: 80%;
   color: rgba(255, 255, 255, 0.5);
   font-size: 0.9rem;
   font-weight: 400;
