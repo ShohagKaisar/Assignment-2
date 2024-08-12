@@ -85,7 +85,7 @@ header {
 .banner-info span {
   font-family: miama;
   font-size: 8rem;
-  font-weight:100;
+  font-weight: 100;
 }
 .btn-primary {
   background-color: rgb(230, 83, 60);
@@ -457,6 +457,10 @@ hr {
   }
   .banner-info h3 {
     font-size: 2.4rem;
+    line-height: 50px;
+  }
+  .banner-info span {
+    font-size: 5.5rem;
   }
   .banner-info {
     width: 90%;
@@ -475,9 +479,6 @@ hr {
     position: absolute;
     top: 250px;
     left: 10px;
-  }
-  .banner-info span {
-    font-size: 2rem;
   }
   .banner-info h3,
   .banner-info p {
