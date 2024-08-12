@@ -71,8 +71,9 @@ header {
 }
 .banner-info h3 {
   font-family: Inter;
-  font-style: Black;
-  font-size: 5rem;
+  font-size: 4.75rem;
+  line-height: 80px;
+  font-weight: 900;
 }
 .p-primary {
   color: rgba(255, 255, 255, 0.5);
@@ -82,9 +83,9 @@ header {
   margin: 15px 0;
 }
 .banner-info span {
-  font-family: Dancing Script;
-  font-style: Black;
-  font-size: 5rem;
+  font-family: miama;
+  font-size: 8rem;
+  font-weight:100;
 }
 .btn-primary {
   background-color: rgb(230, 83, 60);
